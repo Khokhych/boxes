@@ -1,0 +1,26 @@
+{
+  "name": "boxes",
+  "version": "1.0.0",
+  "description": "runers boxes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khokhych/project.git"
+  },
+  "author": "khokhych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khokhych/project/issues"
+  },
+  "homepage": "https://github.com/Khokhych/project#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
